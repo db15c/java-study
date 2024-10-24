@@ -43,5 +43,6 @@ public class Exercicios20241022 {
         System.out.printf("O valor da diferença: %d %n", valorDiferencaProdutos);
 
 
+        scanner.close();
     }
 }
